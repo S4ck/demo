@@ -1,0 +1,177 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: 'Lato', sans-serif;
+	color: #fff;
+}
+
+/*----------------MENU---------------------*/
+
+.menu_bar {
+    display:none;
+}
+.header-logo {
+    position: absolute;
+    left: 2.5%;
+}
+.cabi {
+    width: 50%;
+    margin: 0.5rem;
+}
+header {
+    width: 100%;
+    z-index: 1 !important;
+    position: fixed;
+    height: 4rem;
+}
+header nav {
+    margin: 0rem 2rem;
+    text-align: right;
+}
+header nav ul {
+    list-style:none;
+}
+header nav ul li {
+    display:inline-block;
+    position: relative;
+}
+ 
+header nav ul li:hover {
+    background:#2c77ad;
+}
+.lala{
+    color:#fff;
+    display:block;
+    text-decoration:none;
+    padding: 20px;
+}
+
+/* ---------------BANNER SECTION 1 ---------------- */
+
+section{
+	width: 100%;
+}
+.banner1{
+	margin-top: 0;
+	position: relative;
+}
+.banner1-img {
+    width: 100%;
+    height: 675px;
+}
+.banner1-img-mobile{
+    display: none;
+}
+.tablet1{
+    display: none;
+}
+.text-banner1{
+	position: absolute;
+    top: 21%;
+    left: 13%;
+}
+.text-banner1 p{
+    font-size: 1.5em;
+}
+h1 {
+	font-size: 3em;
+    line-height: 1.4;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+.b1-text-h3{
+	font-weight: lighter;
+    font-size: 1.5em;
+}
+
+
+/* ----------BANNER SECTION 2--------------- */
+
+.banner2{
+	margin-top: -1rem;
+	position: relative;
+}
+.banner-fondo{
+	width: 100%;
+	height: 660px;
+}
+.img-section2-mobile{
+    display: none;
+}
+.phone{
+    top: 6%;
+    left: 36%;
+    position: absolute;
+    height: 620px;
+    width: 400px;
+}
+.parrafo-apple, .parrafo-escala, .parrafo-copa, .b2-text-h2, .b2-text-h3{
+    position: absolute;
+    z-index: 1;
+}
+
+.parrafo-apple{
+	top: 65%;
+    left: 10%;
+    font-size: 27px;
+    text-align: center;
+}
+
+.parrafo-escala{
+	top: 32%;
+    left: 75%;
+    font-size: 27px;
+    text-align: center;
+}
+.parrafo-copa{
+	top: 75%;
+    left: 75%;
+    font-size: 27px;
+    text-align: center;
+}
+.b2-text-h2{
+	font-size: 2.7em;
+    font-weight: lighter;
+    top: 20%;
+    left: 10%;
+}
+.b2-text-h3{
+	font-size: 3em;
+	top: 28%;
+    left: 10%;
+}
+
+
+
+/* --------------------FOOTER-------------------- */
+footer{
+    background: #FF0000;
+    margin-top: -3px;
+    width: 100%;
+    height: 3rem;
+    position: relative;
+}
+.footer-text{
+    color: #fff;
+    text-decoration: none;
+    position: absolute;
+    top: 30%;
+    left: 3%;
+}
+.footer-icon {
+    position: absolute;
+    font-size: 1.3em;
+    top: 20%;
+    left: 89%;
+}
+a.icon-facebook {
+    color: #fff;
+    font-size: 1.3em;
+    text-decoration: none;
+}
+a.icon-facebook:hover {
+	color: rgba(40, 70, 95, 0.95);
+}
