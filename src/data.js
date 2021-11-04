@@ -212,7 +212,7 @@ export default [
     price: 5.00,
     offerPrice: null,
     stock: 12,
-    img: "llavero1",
+    img: "llavero1.jpg",
     category: "manualidades",
   },
   {
@@ -221,7 +221,7 @@ export default [
     price: 2.88,
     offerPrice: null,
     stock: 12,
-    img: "lemon.jpg",
+    img: "llavero-azul.jpg",
     category: "manualidades",
   },
   {
@@ -275,7 +275,7 @@ export default [
     price: 14.88,
     offerPrice: 10,
     stock: 12,
-    img: "muñeco.jpg",
+    img: "muñeco1.jpg",
     category: "manualidades",
   },
   {
@@ -293,7 +293,7 @@ export default [
     price: 4.88,
     offerPrice: null,
     stock: 12,
-    img: "mmuñeco5.jpg",
+    img: "muñeco5.jpg",
     category: "manualidades",
   },
   {
@@ -374,7 +374,7 @@ export default [
     price: 24.88,
     offerPrice: 23.99,
     stock: 12,
-    img: "vestido-niña.jpg",
+    img: "vestidos-niña.jpg",
     category: "bazar",
   },
   {
@@ -401,7 +401,7 @@ export default [
     price: 24.88,
     offerPrice: 23.99,
     stock: 12,
-    img: "buzo.rojo.jpg",
+    img: "buzo-rojo.jpg",
     category: "bazar",
   },
   {
@@ -419,7 +419,7 @@ export default [
     price: 8.88,
     offerPrice: 5,
     stock: 12,
-    img: "organizador.jpg",
+    img: "organizador-papel.jpg",
     category: "bazar",
   },
   {
