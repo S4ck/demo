@@ -132,7 +132,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "ceviche.jpg",
-    category: "comida",
+    category: "comidas",
   },
   {
     id: "77",
@@ -141,7 +141,7 @@ export default [
     offerPrice: 12.5,
     stock: 12,
     img: "chupe.jpg",
-    category: "comida",
+    category: "comidas",
   },
   {
     id: "88",
@@ -150,7 +150,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "sudado.jpg",
-    category: "comida",
+    category: "comidas",
   },
   {
     id: "99",
@@ -159,7 +159,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "trio.jpg",
-    category: "comida",
+    category: "comidas",
   },
   {
     id: "00",
@@ -168,7 +168,7 @@ export default [
     offerPrice: 20.00,
     stock: 12,
     img: "trio2.jpg",
-    category: "comida",
+    category: "comidas",
   },
   {
     id: "111",
@@ -177,7 +177,7 @@ export default [
     offerPrice: 3.25,
     stock: 12,
     img: "cevichepato.jpg",
-    category: "comida",
+    category: "comidas",
   },
   {
     id: "200",
@@ -313,7 +313,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "bread.jpg",
-    category: "postre",
+    category: "postres",
   },
   {
     id: "bread2",
@@ -322,7 +322,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "bread2.jpg",
-    category: "postre",
+    category: "postres",
   },
   {
     id: "bread3",
@@ -331,7 +331,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "bread3.jpg",
-    category: "postre",
+    category: "postres",
   },
   {
     id: "toast",
@@ -340,7 +340,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "toast.jpg",
-    category: "postre",
+    category: "postres",
   },
   {
     id: "toast2",
@@ -349,7 +349,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "toast2.jpg",
-    category: "postre",
+    category: "postres",
   },
   {
     id: "cookies",
@@ -358,7 +358,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "cookies.jpg",
-    category: "postre",
+    category: "postres",
   },
   {
     id: "cookies2",
@@ -367,7 +367,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "cookies2.jpg",
-    category: "postre",
+    category: "postres",
   },
   {
     id: "cookies3",
@@ -376,7 +376,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "cookies3.jpg",
-    category: "postre",
+    category: "postres",
   },
   {
     id: "muffin",
@@ -385,7 +385,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "muffin.jpg",
-    category: "postre",
+    category: "postres",
   },
 
   {
@@ -395,7 +395,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "muffin2.jpg",
-    category: "postre",
+    category: "postres",
   },
 
   {
@@ -405,7 +405,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "muffin3.jpg",
-    category: "postre",
+    category: "postres",
   },
 
   {
@@ -415,7 +415,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "cocacola1lt.jpg",
-    category: "bebida",
+    category: "otros",
   },
 
   {
@@ -425,7 +425,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "incakola1lt.jpg",
-    category: "bebida",
+    category: "otros",
   },
 
   {
@@ -435,7 +435,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "coffe2.jpg",
-    category: "bebida",
+    category: "otros",
   },
 
   {
@@ -445,7 +445,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "coffe3.jpg",
-    category: "bebida",
+    category: "otros",
   },
 
   {
@@ -455,6 +455,6 @@ export default [
     offerPrice: 2.1,
     stock: 12,
     img: "coffe4.jpg",
-    category: "bebida",
+    category: "otros",
   },
 ];
