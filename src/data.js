@@ -582,4 +582,13 @@ export default [
     img: "coffe4.jpg",
     category: "otros",
   },
+  {
+    id: "condiciones",
+    title: "Condiciones de Uso",
+    price: 0.0,
+    offerPrice: null,
+    stock: 12,
+    img: "condiciones.png",
+    category: "otros",
+  },
 ];
