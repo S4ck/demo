@@ -1,6 +1,6 @@
 export default [
   {
-    id: "1",
+    id: "100",
     title: "Pilsen x 12 Und",
     price: 58.00,
     offerPrice: null,
@@ -9,7 +9,7 @@ export default [
     category: "licores",
   },
   {
-    id: "2",
+    id: "101",
     title: "Cristal x 12 Und",
     price: 53.00,
     offerPrice: null,
@@ -18,7 +18,7 @@ export default [
     category: "licores",
   },
   {
-    id: "3",
+    id: "102",
     title: "Cusqueña Trigo x 12 Und",
     price: 63.00,
     offerPrice: null,
@@ -27,7 +27,7 @@ export default [
     category: "licores",
   },
   {
-    id: "4",
+    id: "103",
     title: "Queirolo Acholado 750ml + Evervess 1.5Lt + Hielo",
     price: 40.00,
     offerPrice: null,
@@ -36,7 +36,7 @@ export default [
     category: "licores",
   },
   {
-    id: "5",
+    id: "104",
     title: "Ron Bacardi Carta de Oro 750ml + Pepsi 2Lt + Hielo",
     price: 30.00,
     offerPrice: 28.00,
@@ -45,7 +45,7 @@ export default [
     category: "pack",
   },
   {
-    id: "6",
+    id: "105",
     title: "Whisky JW Black Label 750ml + Guarana 3Lt + Hielo",
     price: 90.00,
     offerPrice: 88.00,
@@ -54,7 +54,7 @@ export default [
     category: "pack",
   },
   {
-    id: "7",
+    id: "106",
     title: "Ron Carúpano 750ml + Pepsi 2Lt + Hielo",
     price: 19.00,
     offerPrice: 15.00,
@@ -63,7 +63,7 @@ export default [
     category: "pack",
   },
   {
-    id: "8",
+    id: "107",
     title: "Whisky Chivas Regals 12 Años 750ml + Guarana 3Lt + Hielo",
     price: 90.00,
     offerPrice: 88.00,
@@ -72,7 +72,7 @@ export default [
     category: "pack",
   },
   {
-    id: "9",
+    id: "108",
     title: "Pisco Porton Acholado + Evervess 1.5Lt + Hielo",
     price: 90.00,
     offerPrice: 85.00,
@@ -81,7 +81,7 @@ export default [
     category: "pack",
   },
   {
-    id: "11",
+    id: "109",
     title: "Whisky Something 750ml + Guarana 3Lt + Hielo",
     price: 47.00,
     offerPrice: 45.00,
@@ -90,7 +90,7 @@ export default [
     category: "pack",
   },
   {
-    id: "22",
+    id: "110",
     title: "Cartavio Superior 750ml + Pepsi 2Lt + Hielo",
     price: 30.00,
     offerPrice: 24.00,
@@ -99,7 +99,7 @@ export default [
     category: "pack",
   },
   {
-    id: "33",
+    id: "111",
     title: "Vino Rosé Santiago Queirolo",
     price: 15.00,
     offerPrice: null,
@@ -108,7 +108,7 @@ export default [
     category: "licores",
   },
   {
-    id: "44",
+    id: "112",
     title: "Vino Magdalena Santiago Queirolo",
     price: 15.00,
     offerPrice: null,
@@ -117,7 +117,7 @@ export default [
     category: "licores",
   },
   {
-    id: "55",
+    id: "113",
     title: "Vino Borgoña Tabernero",
     price: 15.00,
     offerPrice: 13.00,
@@ -126,16 +126,16 @@ export default [
     category: "licores",
   },
   {
-    id: "66",
+    id: "114",
     title: "Ceviche Mixto",
-    price: 8.00,
+    price: 8.50,
     offerPrice: null,
     stock: 12,
     img: "ceviche.jpg",
     category: "comidas",
   },
   {
-    id: "77",
+    id: "115",
     title: "Sudado Mixto",
     price: 14.88,
     offerPrice: 12.5,
@@ -144,7 +144,7 @@ export default [
     category: "comidas",
   },
   {
-    id: "88",
+    id: "116",
     title: "Sudado de Pescado",
     price: 20,
     offerPrice: null,
@@ -153,7 +153,7 @@ export default [
     category: "comidas",
   },
   {
-    id: "99",
+    id: "117",
     title: "Trio Marino",
     price: 15.00,
     offerPrice: null,
@@ -162,7 +162,7 @@ export default [
     category: "comidas",
   },
   {
-    id: "00",
+    id: "118",
     title: "Trio Marino para 2 Personas",
     price: 25.00,
     offerPrice: 20.00,
@@ -171,7 +171,7 @@ export default [
     category: "comidas",
   },
   {
-    id: "111",
+    id: "119",
     title: "Ceviche de Pato",
     price: 14.99,
     offerPrice: 3.25,
@@ -423,7 +423,7 @@ export default [
     category: "bazar",
   },
   {
-    id: "305",
+    id: "307",
     title: "Pack ütiles de Oficina",
     price: 24.88,
     offerPrice: 23.99,
