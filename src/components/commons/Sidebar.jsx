@@ -32,12 +32,12 @@ export default function Sidebar({ showSidebar, setSidebar }) {
     >
       <RadioButtonGroup defaultValue="all" value={category} onChange={(val) => setCategory(val)} isInline>
         <CustomRadio value="all" title="Todos los Productos" icon={<Box as={BiMinus} size="24px" mr="10" />} />
-        <CustomRadio value="cerveza" title="Cervezas" icon={<Box as={BiMinus} size="24px" mr="10" />} />
-        <CustomRadio value="pisco" title="Piscos" icon={<Box as={BiMinus} size="24px" mr="10" />} />
-        <CustomRadio value="vino" title="Vinos" icon={<Box as={BiMinus} size="24px" mr="10" />} />
-        <CustomRadio value="ron" title="Ron" icon={<Box as={BiMinus} size="24px" mr="10" />} />
-        <CustomRadio value="whisky" title="Whisky" icon={<Box as={BiMinus} size="24px" mr="10" />} />
-        <CustomRadio value="pack" title="Promociones" icon={<Box as={BiMinus} size="24px" mr="10" />} />
+        <CustomRadio value="licores" title="Licores" icon={<Box as={BiMinus} size="24px" mr="10" />} />
+        <CustomRadio value="bazar" title="Bazar" icon={<Box as={BiMinus} size="24px" mr="10" />} />
+        <CustomRadio value="postres" title="Postres" icon={<Box as={BiMinus} size="24px" mr="10" />} />
+        <CustomRadio value="libros" title="Libreria" icon={<Box as={BiMinus} size="24px" mr="10" />} />
+        <CustomRadio value="comida" title="Restaurant" icon={<Box as={BiMinus} size="24px" mr="10" />} />
+        <CustomRadio value="pack" title="Ofertas" icon={<Box as={BiMinus} size="24px" mr="10" />} />
       </RadioButtonGroup>
     </Box>
   );
