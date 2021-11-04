@@ -180,13 +180,49 @@ export default [
     category: "comida",
   },
   {
+    id: "200",
+    title: "Limon de Olmos x 1Kg",
+    price: 2.88,
+    offerPrice: null,
+    stock: 12,
+    img: "lemon.jpg",
+    category: "manualidades",
+  },
+  {
+    id: "201",
+    title: "Limon de Olmos x 1Kg",
+    price: 2.88,
+    offerPrice: null,
+    stock: 12,
+    img: "lemon.jpg",
+    category: "manualidades",
+  },
+  {
+    id: "202",
+    title: "Limon de Olmos x 1Kg",
+    price: 2.88,
+    offerPrice: null,
+    stock: 12,
+    img: "lemon.jpg",
+    category: "manualidades",
+  },
+  {
+    id: "203",
+    title: "Limon de Olmos x 1Kg",
+    price: 2.88,
+    offerPrice: null,
+    stock: 12,
+    img: "lemon.jpg",
+    category: "manualidades",
+  },
+  {
     id: "222",
     title: "Limon de Olmos x 1Kg",
     price: 2.88,
     offerPrice: null,
     stock: 12,
     img: "lemon.jpg",
-    category: "ceviche",
+    category: "manualidades",
   },
   {
     id: "333",
@@ -195,7 +231,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "lime.jpg",
-    category: "ceviche",
+    category: "manualidades",
   },
   {
     id: "444",
@@ -204,7 +240,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "mango.jpg",
-    category: "ceviche",
+    category: "manualidades",
   },
   {
     id: "555",
@@ -213,7 +249,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "meat.jpg",
-    category: "criollo",
+    category: "libros",
   },
   {
     id: "666",
@@ -222,7 +258,7 @@ export default [
     offerPrice: 4.0,
     stock: 12,
     img: "meat2.jpg",
-    category: "criollo",
+    category: "libros",
   },
   {
     id: "777",
@@ -231,7 +267,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "meat3.jpg",
-    category: "criollo",
+    category: "libros",
   },
   {
     id: "888",
@@ -240,7 +276,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "mix.jpg",
-    category: "crocante",
+    category: "libros",
   },
   {
     id: "999",
@@ -249,7 +285,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "pears.jpg",
-    category: "ceviche",
+    category: "libros",
   },
   {
     id: "000",
@@ -258,7 +294,7 @@ export default [
     offerPrice: 3.99,
     stock: 12,
     img: "pepper.jpg",
-    category: "crocante",
+    category: "bazar",
   },
   {
     id: "1111",
@@ -267,7 +303,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "salmon.jpg",
-    category: "criollo",
+    category: "bazar",
   },
 
   {
