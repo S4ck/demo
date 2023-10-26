@@ -102,17 +102,17 @@ function CheckoutForm() {
                 <InputLeftElement children={<PseudoBox as={BiMapAlt} size="24px" color="bluex.400" />} />
                 <Select
                   variant="filled"
-                  placeholder="-- Elije una Tienda --"
+                  placeholder="-- Elije tu Ubicación --"
                   pl="40px"
                   name="city"
                   ref={register(validations.city)}
                   isInvalid={errors.city ? true : false}
                 >
-                  <option value="E.Palacios"> E.Palacios </option>
-                  <option value="Berenice"> Berenice </option>
-                  <option value="A.Ugarte"> A.Ugarte </option>
-                  <option value="Proceres"> Proceres </option>
-                  <option value="Supe"> Supe </option>
+                  <option value="Supe Pueblo"> E.Palacios </option>
+                  <option value="Supe Puertoe"> Berenice </option>
+                  <option value="San Nicolas"> A.Ugarte </option>
+                  <option value="Caral"> Proceres </option>
+                  <option value="La Campiña"> Supe </option>
                 </Select>
               </InputGroup>
               {errors.city && (
