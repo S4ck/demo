@@ -2,7 +2,7 @@ export default [
   {
     id: "100",
     title: "Pilsen x 12 Und",
-    price: 58.00,
+    price: 68.00,
     offerPrice: null,
     stock: 12,
     img: "pilsenx12.jpg",
@@ -11,7 +11,7 @@ export default [
   {
     id: "101",
     title: "Cristal x 12 Und",
-    price: 53.00,
+    price: 68.00,
     offerPrice: null,
     stock: 12,
     img: "cristalx12.jpg",
@@ -20,7 +20,7 @@ export default [
   {
     id: "102",
     title: "Cusqueña Trigo x 12 Und",
-    price: 63.00,
+    price: 73.00,
     offerPrice: null,
     stock: 12,
     img: "cusqueñax12.jpg",
@@ -29,7 +29,7 @@ export default [
   {
     id: "103",
     title: "Queirolo Acholado 750ml + Evervess 1.5Lt + Hielo",
-    price: 40.00,
+    price: 39.00,
     offerPrice: null,
     stock: 12,
     img: "promo-acholado-queirolo.jpg",
@@ -47,8 +47,8 @@ export default [
   {
     id: "105",
     title: "Whisky JW Black Label 750ml + Guarana 3Lt + Hielo",
-    price: 90.00,
-    offerPrice: 88.00,
+    price: 110.00,
+    offerPrice: 99.00,
     stock: 12,
     img: "promo-black-label.jpg",
     category: "pack",
@@ -56,8 +56,8 @@ export default [
   {
     id: "106",
     title: "Ron Carúpano 750ml + Pepsi 2Lt + Hielo",
-    price: 19.00,
-    offerPrice: 15.00,
+    price: 29.00,
+    offerPrice: 25.00,
     stock: 12,
     img: "promo-carupano.jpg",
     category: "pack",
@@ -65,8 +65,8 @@ export default [
   {
     id: "107",
     title: "Whisky Chivas Regals 12 Años 750ml + Guarana 3Lt + Hielo",
-    price: 90.00,
-    offerPrice: 88.00,
+    price: 110.00,
+    offerPrice: 99.00,
     stock: 12,
     img: "promo-chivas.jpg",
     category: "pack",
@@ -74,8 +74,8 @@ export default [
   {
     id: "108",
     title: "Pisco Porton Acholado + Evervess 1.5Lt + Hielo",
-    price: 90.00,
-    offerPrice: 85.00,
+    price: 100.00,
+    offerPrice: 95.00,
     stock: 12,
     img: "promo-porton.jpg",
     category: "pack",
@@ -83,8 +83,8 @@ export default [
   {
     id: "109",
     title: "Whisky Something 750ml + Guarana 3Lt + Hielo",
-    price: 47.00,
-    offerPrice: 45.00,
+    price: 70.00,
+    offerPrice: 55.00,
     stock: 12,
     img: "promo-something.jpg",
     category: "pack",
@@ -92,8 +92,8 @@ export default [
   {
     id: "110",
     title: "Cartavio Superior 750ml + Pepsi 2Lt + Hielo",
-    price: 30.00,
-    offerPrice: 24.00,
+    price: 40.00,
+    offerPrice: 32.00,
     stock: 12,
     img: "promo-superior-750.jpg",
     category: "pack",
@@ -125,7 +125,7 @@ export default [
     img: "tabernero-borgoña.jpg",
     category: "licores",
   },
-  {
+  /**{
     id: "114",
     title: "Ceviche Mixto",
     price: 8.50,
@@ -532,11 +532,11 @@ export default [
     img: "muffin3.jpg",
     category: "postres",
   },
-
+*/
   {
     id: "Gaseosa Helada/ sin Helar",
     title: "Coca Cola 1Lt",
-    price: 9.00,
+    price: 5.00,
     offerPrice: null,
     stock: 12,
     img: "cocacola1lt.jpg",
@@ -546,7 +546,7 @@ export default [
   {
     id: "Gaseosa Helada / Sin Helar",
     title: "Inca Kola 1 Lt",
-    price: 8.50,
+    price: 5.00,
     offerPrice: null,
     stock: 12,
     img: "incakola1lt.jpg",
@@ -582,7 +582,7 @@ export default [
     img: "coffe4.jpg",
     category: "otros",
   },
-  {
+  /**{
     id: "condiciones",
     title: "Condiciones de Uso",
     price: 0.0,
@@ -590,5 +590,5 @@ export default [
     stock: 12,
     img: "condiciones.png",
     category: "otros",
-  },
+  },*/
 ];
