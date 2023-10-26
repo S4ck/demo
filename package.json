@@ -3,11 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "vercel-build": "node ./build.js"
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
-  },
-  "dependencies": {
+  }
+    "dependencies": {
     "@chakra-ui/core": "^0.5.2",
     "@emotion/core": "^10.0.27",
     "@emotion/styled": "^10.0.27",
